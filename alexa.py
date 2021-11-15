@@ -93,6 +93,7 @@ def run_alexa():
         talk('i am searching at chrome' + search)
         # tabUrl = "http://google.com/search?q="
         # webbrowser.open(tabUrl+search, new=2)
+        # ask to send some msj on whataap
     elif 'whatsapp' in command:
         msj = command.replace('i want to send message on whatsapp', '')
         pywhatkit.sendwhatmsg('+916375811373', msj, 16, 15)
