@@ -1,19 +1,13 @@
 # Voice Assistant
-
-Arvind Bishnoi
-
-use python3
-
-import moduals before start:-
-speech_recognition
-pyttsx3
-pywhatkit
-datetime
-wikipedia
-pyjokes
-webbrowser
+1. Install Python3
+2. Import moduals before start:-
+       1. Speech_recognition
+       2. Pyttsx3
+       3. Pywhatkit
+       4. Datetime
+       5. Wikipedia
+       6. Pyjokes
+       7. Webbrowser
 
 
-how to run:-
-first wokeup alexa
-and give command what we want
+
